@@ -20,7 +20,7 @@ const Blogs = () => {
   }, [i18n.language]);
 
   return (
-    <section className="flex flex-col gap-10 justify-center w-full items-center p-20 bg-amber-200">
+    <section className="flex flex-col gap-10 justify-center w-full items-center p-5 md:p-6 lg:p-10 bg-amber-200">
       <div>
         <div className="flex gap-5 sticky top-0 right-0">
           <button

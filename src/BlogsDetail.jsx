@@ -17,7 +17,7 @@ const BlogsDetail = () => {
   if (!selectedBlog) return <h1>Blog Not Found</h1>;
 
   return (
-    <section className="h-screen">
+    <section className="h-screen px-5">
       <div className="border border-gray-300 shadow-lg p-5 mt-10 w-[600px] mx-auto">
         <img
           src={selectedBlog.image}
