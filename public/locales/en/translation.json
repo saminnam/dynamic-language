@@ -1,0 +1,42 @@
+[
+  {
+    "author": "John Doe",
+    "title": "The Future of AI in Everyday Life",
+    "sub_title": "How artificial intelligence is transforming our world",
+    "content": "Artificial Intelligence (AI) is rapidly advancing, shaping the way we work, communicate, and live. From virtual assistants to self-driving cars, AI is making life more efficient and convenient.",
+    "sub_content": "Experts predict that AI will further revolutionize healthcare, finance, and even creative industries. While concerns about job displacement exist, AI also creates new opportunities for innovation.",
+    "image": "https://www.hostinger.com/my/tutorials/wp-content/uploads/sites/45/2022/03/what-is-a-blog-1.webp"
+  },
+  {
+    "author": "Jane Smith",
+    "title": "10 Tips for a Healthier Lifestyle",
+    "sub_title": "Simple habits that can improve your overall well-being",
+    "content": "Living a healthy lifestyle doesn’t have to be complicated. By making small changes in your daily routine, you can improve your physical and mental well-being.",
+    "sub_content": "Focus on eating balanced meals, staying hydrated, exercising regularly, and getting enough sleep. These simple steps can have a significant impact on your long-term health.",
+    "image": "https://www.hostinger.com/my/tutorials/wp-content/uploads/sites/45/2022/03/what-is-a-blog-1.webp"
+  },
+  {
+    "author": "Mike Johnson",
+    "title": "The Rise of Remote Work",
+    "sub_title": "Why more companies are embracing remote work",
+    "content": "Remote work has gained popularity in recent years, with many companies allowing employees to work from home. This shift has led to increased flexibility and productivity.",
+    "sub_content": "With the right tools and work-life balance, remote work can be just as effective as traditional office setups. Companies are now rethinking office spaces and hybrid work models.",
+    "image": "https://www.hostinger.com/my/tutorials/wp-content/uploads/sites/45/2022/03/what-is-a-blog-1.webp"
+  },
+  {
+    "author": "Emily Davis",
+    "title": "Top 5 Travel Destinations for 2025",
+    "sub_title": "Explore the most breathtaking places to visit next year",
+    "content": "From tropical beaches to historic cities, 2025 has some amazing travel destinations waiting for you. Whether you're looking for adventure or relaxation, there's something for everyone.",
+    "sub_content": "Destinations like Bali, Paris, Santorini, Kyoto, and Patagonia are topping the travel lists for their unique experiences, stunning landscapes, and cultural richness.",
+    "image": "https://www.hostinger.com/my/tutorials/wp-content/uploads/sites/45/2022/03/what-is-a-blog-1.webp"
+  },
+  {
+    "author": "David Brown",
+    "title": "Investing 101: A Beginner’s Guide",
+    "sub_title": "Understanding the basics of smart investing",
+    "content": "Investing can seem overwhelming at first, but with the right approach, you can grow your wealth over time. Understanding different asset classes and risk levels is key.",
+    "sub_content": "Start by setting financial goals, diversifying your portfolio, and staying informed about market trends. Long-term investing can help secure your financial future.",
+    "image": "https://www.hostinger.com/my/tutorials/wp-content/uploads/sites/45/2022/03/what-is-a-blog-1.webp"
+  }
+]

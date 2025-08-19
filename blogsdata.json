@@ -1,0 +1,158 @@
+{
+  "en": [
+    {
+      "id": 1,
+      "author": "John Doe",
+      "title": "The Future of AI in Everyday Life",
+      "sub_title": "How artificial intelligence is transforming our world",
+      "content": "Artificial Intelligence (AI) is rapidly advancing, shaping the way we work, communicate, and live. From virtual assistants to self-driving cars, AI is making life more efficient and convenient.",
+      "sub_content": "Experts predict that AI will further revolutionize healthcare, finance, and even creative industries. While concerns about job displacement exist, AI also creates new opportunities for innovation.",
+      "image": "https://indiastemfoundation.org/wp-content/uploads/2023/12/BLOG-COVERS-11.jpg",
+      "btn_text": "Know More"
+    },
+    {
+      "id": 2,
+      "author": "Jane Smith",
+      "title": "10 Tips for a Healthier Lifestyle",
+      "sub_title": "Simple habits that can improve your overall well-being",
+      "content": "Living a healthy lifestyle doesn’t have to be complicated. By making small changes in your daily routine, you can improve your physical and mental well-being.",
+      "sub_content": "Focus on eating balanced meals, staying hydrated, exercising regularly, and getting enough sleep. These simple steps can have a significant impact on your long-term health.",
+      "image": "https://healthiersteps.com/wp-content/uploads/2022/02/healthierlifesyle.jpg",
+      "btn_text": "Know More"
+    },
+    {
+      "id": 3,
+      "author": "Mike Johnson",
+      "title": "The Rise of Remote Work",
+      "sub_title": "Why more companies are embracing remote work",
+      "content": "Remote work has gained popularity in recent years, with many companies allowing employees to work from home. This shift has led to increased flexibility and productivity.",
+      "sub_content": "With the right tools and work-life balance, remote work can be just as effective as traditional office setups. Companies are now rethinking office spaces and hybrid work models.",
+      "image": "https://quasa.io/storage/images/news/TmpzAPfJPgRSyH9tZBC1gX5SSwxHk5iuYrpkY4S0.jpg",
+      "btn_text": "Know More"
+    },
+    {
+      "id": 4,
+      "author": "Emily Davis",
+      "title": "Top 5 Travel Destinations for 2025",
+      "sub_title": "Explore the most breathtaking places to visit next year",
+      "content": "From tropical beaches to historic cities, 2025 has some amazing travel destinations waiting for you. Whether you're looking for adventure or relaxation, there's something for everyone.",
+      "sub_content": "Destinations like Bali, Paris, Santorini, Kyoto, and Patagonia are topping the travel lists for their unique experiences, stunning landscapes, and cultural richness.",
+      "image": "https://www.shutterstock.com/image-photo/traveler-woman-on-vacation-beach-600nw-2337247967.jpg",
+      "btn_text": "Know More"
+    },
+    {
+      "id": 5,
+      "author": "David Brown",
+      "title": "Investing 101: A Beginner’s Guide",
+      "sub_title": "Understanding the basics of smart investing",
+      "content": "Investing can seem overwhelming at first, but with the right approach, you can grow your wealth over time. Understanding different asset classes and risk levels is key.",
+      "sub_content": "Start by setting financial goals, diversifying your portfolio, and staying informed about market trends. Long-term investing can help secure your financial future.",
+      "image": "https://www.shutterstock.com/image-photo/guide-phrase-written-on-chalkboard-600nw-1386520427.jpg",
+      "btn_text": "Know More"
+    }
+  ],
+  "tm": [
+    {
+      "id": 1,
+      "author": "ஜான் டோ",
+      "title": "என்றும் வாழும் எய்கா செயல்பாட்டின் எதிர்காலம்",
+      "sub_title": "பிரபஞ்சம் முழுவதும் செயற்கை நுண்ணறிவு எவ்வாறு மாற்றம் செய்யப்படுகிறது",
+      "content": "செயற்கை நுண்ணறிவு (AI) வேகமாக முன்னேறி வருகிறது, இது நாம் வேலை செய்யும், தொடர்பு கொள்ளும் மற்றும் வாழும் முறையை வடிவமைக்கின்றது. குரல் உதவியாளர்கள் முதல் சுய இயக்கக் கார்கள் வரை, AI வாழும் முறையை அதிகரிக்க மற்றும் எளிமைப்படுத்துகிறது.",
+      "sub_content": "ஆசிரியர்கள் கூறுகின்றனர் AI எதிர்காலத்தில் மருத்துவம், நிதி மற்றும் படைப்பாற்றல் தொழில்களில் மேலும் புரட்சியை ஏற்படுத்தும். வேலை இடமாற்றம் பற்றிய கவலைகள் இருந்தாலும், AI புதிய கண்டுபிடிப்புகளுக்கான வாய்ப்புகளை உருவாக்குகிறது.",
+      "image": "https://indiastemfoundation.org/wp-content/uploads/2023/12/BLOG-COVERS-11.jpg",
+      "btn_text": "மேலும் அறிக"
+    },
+    {
+      "id": 2,
+      "author": "ஜேன் ஸ்மித்",
+      "title": "சுகாதாரமான வாழ்க்கைக்கு 10 குறிப்புகள்",
+      "sub_title": "உங்கள் உடல் மற்றும் மன ஆரோக்கியத்தை மேம்படுத்த எளிய பழக்கங்கள்",
+      "content": "சுகாதாரமான வாழ்க்கையை நடத்துவது சிரமமானது அல்ல. உங்கள் நாளாந்த routineல் சிறிய மாற்றங்களை செய்யுங்கள், உங்கள் உடல் மற்றும் மன ஆரோக்கியத்தை மேம்படுத்த முடியும்.",
+      "sub_content": "சரியான உணவு, சீரான நீரிழிவு, பயிற்சி, மற்றும் போதுமான தூக்கத்தைப் பொருட்படுத்துங்கள். இந்த எளிய படிகள் உங்கள் நீண்ட கால ஆரோக்கியத்தில் மிக முக்கிய பங்காற்றும்.",
+      "image": "https://healthiersteps.com/wp-content/uploads/2022/02/healthierlifesyle.jpg",
+      "btn_text": "மேலும் அறிக"
+    },
+    {
+      "id": 3,
+      "author": "மைக் ஜான்சன்",
+      "title": "தொலைநிலை வேலை வளர்ச்சி",
+      "sub_title": "மேலும் பல நிறுவனங்கள் தொலைநிலை வேலை ஏற்க ஏன்?",
+      "content": "நேசமாக, தொலைநிலை வேலை பரவலாக புகழ்பெற்றது, பல நிறுவனங்கள் ஊழியர்களுக்கு வீடுகளில் இருந்து வேலை செய்ய அனுமதிக்கின்றன. இந்த மாற்றம் அதிகமான சுதந்திரம் மற்றும் உற்பத்தி திறனைக் கொண்டுள்ளது.",
+      "sub_content": "சரியான கருவிகள் மற்றும் வேலை-வாழ்க்கை சமநிலை உள்ளதாக இருந்தால், தொலைநிலை வேலை பாரம்பரிய அலுவலக அமைப்புகளின் போதிலும் அதிகம் பயனுள்ளதாக இருக்க முடியும். நிறுவனங்கள் தற்போது அலுவலகங்களை மறுசீரமைக்க மற்றும் ஐக்கிய வேலை மாதிரிகளை மறுபரிசீலனை செய்கின்றன.",
+      "image": "https://quasa.io/storage/images/news/TmpzAPfJPgRSyH9tZBC1gX5SSwxHk5iuYrpkY4S0.jpg",
+      "btn_text": "மேலும் அறிக"
+    },
+    {
+      "id": 4,
+      "author": "எமிலி டேவிஸ்",
+      "title": "2025 ஆம் ஆண்டுக்கான மிக சிறந்த 5 பயண இடங்கள்",
+      "sub_title": "அடுத்த ஆண்டு பார்க்க வேண்டிய மிகவும் அர்ப்பணிப்பு இடங்களை ஆராயுங்கள்",
+      "content": "கடல் கரைகள் முதல் வரலாற்று நகரங்கள் வரை, 2025 இல் உங்கள் பார்வையை ஈர்க்கும் பயண இடங்கள் உள்ளன. நீங்கள் சாகசத்தை விரும்புகிறீர்கள் அல்லது ஓய்வை விரும்புகிறீர்கள், அனைவருக்கும் ஏதாவது இருக்கிறது.",
+      "sub_content": "பாலி, பரிஸ், ஸாந்தொரினி, கியோடோ மற்றும் படகோனியா போன்ற இடங்கள் அவர்களுடைய தனித்துவமான அனுபவங்கள், அழகான பரிமாணங்கள் மற்றும் கலாச்சாரச் செழிப்பிற்காக பயணப்பட்டியலில் இடம் பெற்றுள்ளன.",
+      "image": "https://www.shutterstock.com/image-photo/traveler-woman-on-vacation-beach-600nw-2337247967.jpg",
+      "btn_text": "மேலும் அறிக"
+    },
+    {
+      "id": 5,
+      "author": "டேவிட் ப்ரவுன்",
+      "title": "நடப்பு முதலீடுகள் 101: ஒரு தொடக்க मार्गிகை",
+      "sub_title": "ஸ்மார்ட் முதலீடுகளின் அடிப்படை புரிதலைப் பெறுங்கள்",
+      "content": "முதலீடு முதலில் அதிகமாக பயங்கரமாக உணரக்கூடும், ஆனால் சரியான அணுகுமுறை மூலம், நீங்கள் உங்கள் செல்வத்தை காலக்கெடுவாக வளர்க்க முடியும். வெவ்வேறு சொத்துகளின் வகைகள் மற்றும் அபாய அளவுகளைப் புரிந்துகொள்வது முக்கியம்.",
+      "sub_content": "முதலீடு செய்யும்போது உங்கள் நிதி இலக்குகளை அமைத்து, உங்கள் தொகுப்பை பல்வேறு செய்யவும், சந்தை போக்குகளை பின்பற்றவும். நீண்டகால முதலீடு உங்கள் நிதி எதிர்காலத்தை பாதுகாக்க உதவும்.",
+      "image": "https://www.shutterstock.com/image-photo/guide-phrase-written-on-chalkboard-600nw-1386520427.jpg",
+      "btn_text": "மேலும் அறிக"
+    }
+  ],
+  "ar": [
+    {
+      "id": 1,
+      "author": "جون دو",
+      "title": "مستقبل الذكاء الاصطناعي في الحياة اليومية",
+      "sub_title": "كيف يُحَوِّل الذكاء الاصطناعي عالمنا",
+      "content": "الذكاء الاصطناعي (AI) يتقدم بسرعة، ويشكل الطريقة التي نعمل بها، نتواصل، ونعيش. من المساعدين الافتراضيين إلى السيارات ذاتية القيادة، يعمل الذكاء الاصطناعي على جعل حياتنا أكثر كفاءة وراحة.",
+      "sub_content": "يتوقع الخبراء أن الذكاء الاصطناعي سيحدث ثورة في الرعاية الصحية، والمالية، وحتى الصناعات الإبداعية. وبينما توجد مخاوف بشأن فقدان الوظائف، إلا أن الذكاء الاصطناعي يخلق أيضًا فرصًا جديدة للابتكار.",
+      "image": "https://indiastemfoundation.org/wp-content/uploads/2023/12/BLOG-COVERS-11.jpg",
+      "btn_text": "اعرف المزيد"
+    },
+    {
+      "id": 2,
+      "author": "جين سميث",
+      "title": "10 نصائح لأسلوب حياة أكثر صحة",
+      "sub_title": "عادات بسيطة يمكن أن تحسن رفاهيتك العامة",
+      "content": "عيش حياة صحية لا يجب أن يكون معقدًا. من خلال إجراء تغييرات صغيرة في روتينك اليومي، يمكنك تحسين صحتك البدنية والعقلية.",
+      "sub_content": "ركز على تناول وجبات متوازنة، البقاء مترطبًا، ممارسة الرياضة بانتظام، والحصول على قسط كافٍ من النوم. يمكن أن يكون لهذه الخطوات البسيطة تأثير كبير على صحتك على المدى الطويل.",
+      "image": "https://healthiersteps.com/wp-content/uploads/2022/02/healthierlifesyle.jpg",
+      "btn_text": "اعرف المزيد"
+    },
+    {
+      "id": 3,
+      "author": "مايك جونسون",
+      "title": "صعود العمل عن بُعد",
+      "sub_title": "لماذا تعتنق المزيد من الشركات العمل عن بُعد",
+      "content": "لقد أصبح العمل عن بُعد شائعًا في السنوات الأخيرة، حيث سمحت العديد من الشركات للموظفين بالعمل من المنزل. وقد أدى هذا التحول إلى زيادة المرونة والإنتاجية.",
+      "sub_content": "مع الأدوات المناسبة وتوازن العمل والحياة، يمكن أن يكون العمل عن بُعد فعالًا مثل بيئات المكتب التقليدية. بدأت الشركات الآن في إعادة التفكير في المساحات المكتبية ونماذج العمل الهجينة.",
+      "image": "https://quasa.io/storage/images/news/TmpzAPfJPgRSyH9tZBC1gX5SSwxHk5iuYrpkY4S0.jpg",
+      "btn_text": "اعرف المزيد"
+    },
+    {
+      "id": 4,
+      "author": "إميلي ديفيس",
+      "title": "أفضل 5 وجهات سفر لعام 2025",
+      "sub_title": "اكتشف أكثر الأماكن المدهشة التي يجب زيارتها العام المقبل",
+      "content": "من الشواطئ الاستوائية إلى المدن التاريخية، تحتوي سنة 2025 على بعض الوجهات السياحية الرائعة التي تنتظرك. سواء كنت تبحث عن مغامرة أو استرخاء، هناك شيء للجميع.",
+      "sub_content": "تتصدر وجهات مثل بالي وباريس وسانتوريني وكيوتو وباتاغونيا قوائم السفر بفضل تجاربها الفريدة، مناظرها الطبيعية الخلابة، وغناها الثقافي.",
+      "image": "https://www.shutterstock.com/image-photo/traveler-woman-on-vacation-beach-600nw-2337247967.jpg",
+      "btn_text": "اعرف المزيد"
+    },
+    {
+      "id": 5,
+      "author": "ديفيد براون",
+      "title": "الاستثمار 101: دليل المبتدئين",
+      "sub_title": "فهم أساسيات الاستثمار الذكي",
+      "content": "قد يبدو الاستثمار مربكًا في البداية، ولكن مع النهج الصحيح، يمكنك تنمية ثروتك بمرور الوقت. من المهم فهم فئات الأصول المختلفة ومستويات المخاطر.",
+      "sub_content": "ابدأ بتحديد أهدافك المالية، وتنويع محفظتك، والبقاء على اطلاع باتجاهات السوق. يمكن أن يساعد الاستثمار طويل الأجل في تأمين مستقبلك المالي.",
+      "image": "https://www.shutterstock.com/image-photo/guide-phrase-written-on-chalkboard-600nw-1386520427.jpg",
+      "btn_text": "اعرف المزيد"
+    }
+  ]
+}
