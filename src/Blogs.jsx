@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import i18n from "./i18n";
-import blogData from "/blogsData.json";
+import blogData from "../blogsdata.json";
 import { Link } from "react-router-dom";
 
 const Blogs = () => {
